@@ -1,2 +1,2 @@
-# JAWS
+# JAWWS
 A Project to Extract and Explore Job Market Data
