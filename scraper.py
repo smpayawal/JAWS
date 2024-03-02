@@ -204,7 +204,7 @@ def store_jobs(jobs):
     try:
         db = mysql.connector.connect(
             user='root',
-            password='N4p4k4p0g1k0',  # Mask password for security
+            password='*********',  # Mask password for security
             port=3306,
             host='localhost',
             database='data_warehouse2024'
